@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Samuel-Bandeira
-- 👀 I’m interested in learn nestjs
+- 👀 I’m interested in working as a backend web developer
 - 🌱 I’m currently learning nestjs
 - 💞️ I’m looking to collaborate on backend projects
 - 📫 How to reach me samuel.bandeira.oliveira@gmail.com
