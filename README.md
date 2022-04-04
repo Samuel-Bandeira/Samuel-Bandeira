@@ -1,5 +1,6 @@
-# I am Samuel Bandeira </br> A Full-Stack web developer located in Brazil! 
-
+# Hi! I am Samuel </br>Bandeira 
+### A Full-Stack web developer located in Brazil! 
+#
 <div align="center">
   <a href="https://github.com/Samuel-Bandeira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samuel-bandeira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -23,8 +24,17 @@
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50%;" src="https://lh3.googleusercontent.com/fife/AAWUweXXokM9dzkMOdy_4bpFq1sc5zGvZrN1nXiGxzsoxhPE27ctMtqz7ACO0M9Ss0JOkvqkeBmCcczWzr2t5X3TkXz4CltOXThC00ELEhRTBplwUr3RScGqKy6VhcIU7SOR4gWk7SWW5zPNlB01r7HxzV24cxKQ5iMqaduBHbqBjtnq28bJvAJ6A6xWxhFr6ODyO7JU6MzvvMPs8ounjVBAVWeOKj1HxLSf79bvzVtxz3Fud3jcUIxJ3nTi0zmE46Q6hl5qpIvqj91TYbMpaPBezQmNcimCUialimMg-OjFp0I_Z1Fy2Y_UoJ2H4j-7uRt3GDm8jW3zRQzRq3U5-Qpe4EeSi03IQ5FHsyaBAOwIvrfmCT3ogfwuKhX4irN45GcbVe7ZsDFDvvK-TnBaydvcIxZ2S7WplxxQjPBAnnWYBLSq08s0erETWy8sPa0w2O8nPpIjvQ-gDwM3iB3fV2mLqUr2Pr4pUfax1nTMOd8LBor_nCEsCcCkqrA7LMgJLOu4vzEkjaZVXwtjVz0Ke1R4bDL3pIGWQ0gny0VD_ZTzM0HbEAc54z3iGHabocD993Mzil3G-83TK7z1-ft94r0GYxHLTf0dWXmhRqAPfFc4hwCAwubhoi-8iB20RlB_7c-xG_gNrIHnH069dR1CVwW5PK-GPFrkodnyQUMNfTB_T9WhfLl50lUnZl3J4mX98XAQpm4Ia3TWDi0u-omKVgFhLsEOAmYVLO91pOlBARNDR1Q0NKsFnyR7P0hf5n4h6yscM5TCNzoAAodUqCLe5OkwH3gzuoqg-pdYaJIK0n6lFnKz5hz_AUuA-oSTNnuR-9oHujaAqyZSoD4vwMVXn8ev-uCVEf242LsJhr3Z=s220-rw">
 </div>
   
-
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ ##
+<div> 
+  <a href="https://www.youtube.com" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
 
 - 👋 Hi, I’m @Samuel-Bandeira
 - 👀 I’m interested in working as a Full-Stack web developer
