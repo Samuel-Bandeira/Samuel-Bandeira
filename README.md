@@ -16,7 +16,11 @@
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="">
 </div>
   <img align="center" alt="Sam-Nestjs" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
-
+  <img align="center" alt="Sam-Nestjs" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
+  <img align="center" alt="Sam-Nestjs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img align="center" alt="Sam-Nestjs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+  <img align="center" alt="Sam-Nestjs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
+ 
 
 - 👋 Hi, I’m @Samuel-Bandeira
 - 👀 I’m interested in working as a Full-Stack web developer
