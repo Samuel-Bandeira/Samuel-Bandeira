@@ -15,7 +15,7 @@
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 </div>
-
+<br>
 <div> 
   <a href="https://www.linkedin.com/in/samuel-bandeira-19301b1a7/" target="_blank"><img align="center" src="https://www.citypng.com/public/uploads/preview/hd-linkedin-blue-official-logo-png-31623962075ldvmb0gdiz.png" target="_blank" width="100px" style="background-color: white;"></a>
 </div>
