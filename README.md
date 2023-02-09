@@ -1,7 +1,13 @@
 # Hi! I am Samuel </br>Bandeira 
 ### A Full-Stack web developer located in Brazil! 
 #
-<div style="display:flex; flex-direction:column">
+<style>
+  .stats {
+    display: flex;
+    border: 1px solid red;
+  }
+</style>
+<div style="display:flex; flex-direction:column" class="stats">
   <a href="https://github.com/Samuel-Bandeira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samuel-bandeira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-Bandeira&layout=compact&langs_count=7&theme=dracula"/>
