@@ -27,8 +27,7 @@
   
  ##
 <div> 
-  <a href="https://www.youtube.com/channel/UCrCTCPJ8Gb9eAUt8XHowZSg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/sam_bandeir4/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/samuel-bandeira-19301b1a7/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/2560px-LinkedIn_Logo.svg.png" target="_blank"></a>
 </div>
 
 - 👋 Hi, I’m @Samuel-Bandeira
