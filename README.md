@@ -1,4 +1,4 @@
-# Hi! I am Samuel </br>Bandeira 
+# Hi! I am Samuel Bandeira 
 ### A Full-Stack web developer located in Brazil! 
 #
 <div>
