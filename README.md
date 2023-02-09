@@ -27,7 +27,7 @@
   
  ##
 <div> 
-  <a href="https://www.linkedin.com/in/samuel-bandeira-19301b1a7/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/2560px-LinkedIn_Logo.svg.png" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/samuel-bandeira-19301b1a7/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/2560px-LinkedIn_Logo.svg.png" target="_blank" width="100px"></a>
 </div>
 
 - 👋 Hi, I’m @Samuel-Bandeira
