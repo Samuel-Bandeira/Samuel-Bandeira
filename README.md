@@ -1,5 +1,5 @@
 # Name: Samuel Bandeira.<br>Profession: Full Stack Web Developer.<br>Location: Brazil.
-## <a href="https://drive.google.com/file/d/1LCH3NSnIsEWee9ElIoDKOUAJ6aocTcnx/view?usp=sharing" target="_blank">My Curriculum</a>.<br><a href="https://www.linkedin.com/in/samuel-bandeira-19301b1a7/" target="_blank">My Linkedin<a/>.
+## <a href="https://drive.google.com/file/d/1LCH3NSnIsEWee9ElIoDKOUAJ6aocTcnx/view?usp=sharing" target="_blank">Curriculum</a> and <a href="https://www.linkedin.com/in/samuel-bandeira-19301b1a7/" target="_blank">Linkedin<a/>.
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Samuel-Bandeira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-Bandeira&layout=compact&langs_count=7&theme=dracula"/>
