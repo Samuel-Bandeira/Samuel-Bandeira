@@ -21,7 +21,7 @@
 <div> 
   <a href="https://www.linkedin.com/in/samuel-bandeira-19301b1a7/" target="_blank"><img align="center" src="https://www.citypng.com/public/uploads/preview/hd-linkedin-blue-official-logo-png-31623962075ldvmb0gdiz.png" target="_blank" width="100px" style="background-color: white;"></a>
 </div>
-
+<br>
 - 👋 Hi, I’m @Samuel-Bandeira
 - 👀 I’m interested in working as a Full-Stack web developer
 - 🌱 I’m currently improving my NestJS knowledge
