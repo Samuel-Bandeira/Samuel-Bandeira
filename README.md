@@ -1,5 +1,5 @@
 # Hello! My name is Samuel Bandeira and I am Full Stack web developer located in Brazil. 
-## <a href="https://drive.google.com/file/d/1LCH3NSnIsEWee9ElIoDKOUAJ6aocTcnx/view?usp=sharing">My curriculum</a> 
+## If you're interested you can take look at my skill in <a href="https://drive.google.com/file/d/1LCH3NSnIsEWee9ElIoDKOUAJ6aocTcnx/view?usp=sharing">My curriculum</a> 
 <div>
   <a href="https://github.com/Samuel-Bandeira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samuel-bandeira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
