@@ -1,5 +1,5 @@
 # Hi! I am Samuel Bandeira 
-### A Full-Stack web developer located in Brazil! 
+### A Full Stack web developer located in Brazil! 
 #
 <div>
   <a href="https://github.com/Samuel-Bandeira">
