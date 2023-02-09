@@ -1,5 +1,4 @@
-# Hello! My name is Samuel Bandeira.
-# Full Stack Web Developer. 
+# Hello! My name is Samuel Bandeira.<br>Full Stack Web Developer. 
 ## Have a look at my skills at <a href="https://drive.google.com/file/d/1LCH3NSnIsEWee9ElIoDKOUAJ6aocTcnx/view?usp=sharing">my curriculum</a>.
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Samuel-Bandeira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
